@@ -16,7 +16,6 @@ To write a program to find the square root of a number.
 
 ## Program:
 ```
-/*
 Program to find the square root for the given number(newton's method) using function.
 Developed by: S.E.Elamaran
 RegisterNumber: 22000420
@@ -27,7 +26,6 @@ def fun():
         x=0.5*(x+b/x)
     print("Square root of the number:",x)
 fun()
-*/
 ```
 
 ## Output:
